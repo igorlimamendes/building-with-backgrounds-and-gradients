@@ -23,3 +23,12 @@ body {
         a:hover {
             text-decoration: underline;
         }
+
+/* Footer */
+.footer {
+    width: 1020px;
+    height: 90px;
+    margin: 0 auto;
+    padding: 2em 2em 0;
+    color: var(--footerText);
+}
