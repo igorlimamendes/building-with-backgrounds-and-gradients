@@ -16,3 +16,10 @@ body {
     color: var(--bodyText);
     font: 10px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
+    a {
+        text-decoration: none;
+        color: var(--anchor);
+    }
+        a:hover {
+            text-decoration: underline;
+        }
