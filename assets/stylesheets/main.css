@@ -46,3 +46,11 @@ body {
             display: inline-flex;
             align-items: center;
         }
+            .info__ul li {
+                border-right: 1px solid var(--footerInfoBorder);
+                padding: 0 .5em;
+            }
+
+            .info__ul li:last-of-type {
+                border: none;
+            }
