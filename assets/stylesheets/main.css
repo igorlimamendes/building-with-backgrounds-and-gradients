@@ -8,7 +8,7 @@
     --bodyText: #333;
     --anchor: #08C;
     --footerText: #6E6E6E;
-    --footerInfo1Border: #CCC;
+    --footerInfoBorder: #CCC;
 }
 
 body {
@@ -32,3 +32,10 @@ body {
     padding: 2em 2em 0;
     color: var(--footerText);
 }
+    .footer__info {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1.3em;
+    }
