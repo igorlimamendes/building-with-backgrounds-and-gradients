@@ -2,3 +2,11 @@
 * {
     box-sizing: border-box;
 }
+
+:root {
+    --bodyBackground: #FFF;
+    --bodyText: #333;
+    --anchor: #08C;
+    --footerText: #6E6E6E;
+    --footerInfo1Border: #CCC;
+}
