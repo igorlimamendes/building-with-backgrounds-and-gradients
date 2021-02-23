@@ -10,3 +10,9 @@
     --footerText: #6E6E6E;
     --footerInfo1Border: #CCC;
 }
+
+body {
+    background: var(--bodyBackground);
+    color: var(--bodyText);
+    font: 10px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
