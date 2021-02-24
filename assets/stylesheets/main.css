@@ -38,6 +38,13 @@ body {
             text-decoration: underline;
         }
 
+/* Main */
+.main {
+    background: url(../images/hero.jpg) 50% 100% no-repeat;
+    height: 80%;
+    padding-top: 8em;
+}
+
 /* Footer */
 .footer {
     width: 1020px;
