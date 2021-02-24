@@ -136,6 +136,15 @@ body {
             bottom: 12px;
         }
 
+        .main__figure__box3 {
+            height: 31px;
+            overflow: hidden;
+            margin-top: 1.4em;
+        }
+            .main__figure__box3 img:hover {
+                margin-top: -3.2em;
+            }
+
 /* Footer */
 .footer {
     width: 1020px;
