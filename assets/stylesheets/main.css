@@ -125,6 +125,11 @@ body {
         align-items: center;
         margin: 2% auto 0;
     }
+        .main__figure__box1,
+        .main__figure__box2,
+        .main__figure__box3 {
+            display: inline-block;
+        }
 
 /* Footer */
 .footer {
