@@ -77,6 +77,12 @@ body {
                     padding-top: 1em;
                     text-align: center;
                 }
+                    .main__nav__ul li a:hover,
+                    .main__nav__ul li a:focus {
+                        outline: none;
+                        text-decoration: none;
+                        background: var(--heroNavAnchorEffect);
+                    }
 
 /* Footer */
 .footer {
