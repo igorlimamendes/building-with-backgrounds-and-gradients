@@ -54,6 +54,15 @@ body {
             #5f5f5f 50%, #646464 70%, #696969 80%, #717171 100%
         );
     }
+        .main__nav__ul {
+            display: flex;
+            flex-flow: row nowrap;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            height: 36px;
+        }
 
 /* Footer */
 .footer {
