@@ -66,6 +66,17 @@ body {
             .main__nav__ul li {
                 border-right: 1px solid var(--listItemBorderRight);
             }
+                .main__nav__ul li a {
+                    color: var(--white);
+                    text-shadow: 1px 1px 1px var(--black);
+                    font-size: 1.2em;
+                    letter-spacing: 1px;
+                    display: inline-block;
+                    width: 8.2em;
+                    height: 3em;
+                    padding-top: 1em;
+                    text-align: center;
+                }
 
 /* Footer */
 .footer {
