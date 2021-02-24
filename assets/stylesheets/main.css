@@ -63,6 +63,9 @@ body {
             list-style: none;
             height: 36px;
         }
+            .main__nav__ul li {
+                border-right: 1px solid var(--listItemBorderRight);
+            }
 
 /* Footer */
 .footer {
