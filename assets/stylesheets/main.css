@@ -131,6 +131,11 @@ body {
             display: inline-block;
         }
 
+        .main__figure__box2 {
+            position: relative;
+            bottom: 12px;
+        }
+
 /* Footer */
 .footer {
     width: 1020px;
