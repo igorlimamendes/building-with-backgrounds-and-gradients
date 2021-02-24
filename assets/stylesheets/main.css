@@ -91,6 +91,13 @@ body {
                             background: url(https://web.archive.org/web/20140301005559im_/http://images.apple.com/global/nav/images/globalnav_text.svg) no-repeat 50% 0;
                         }
 
+                .main__nav__ul li:last-of-type {
+                    padding-left: 1.5em;
+                }
+                    .main__nav__ul li:last-of-type:hover {
+                        background: none;
+                    }
+
 /* Footer */
 .footer {
     width: 1020px;
