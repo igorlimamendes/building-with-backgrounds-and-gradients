@@ -175,3 +175,6 @@ body {
             .info__ul li:last-of-type {
                 border: none;
             }
+                .info__ul li:last-child a {
+                    outline: none;
+                }
