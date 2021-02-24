@@ -25,9 +25,10 @@ body {
 }
 
 body {
-    background: var(--bodyBackground);
+    background: var(--white);
     color: var(--bodyText);
     font: 10px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+    max-height: 150em;
 }
     a {
         text-decoration: none;
