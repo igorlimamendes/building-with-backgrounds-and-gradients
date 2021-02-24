@@ -4,11 +4,19 @@
 }
 
 :root {
-    --bodyBackground: #FFF;
+    --white: #fff;
+    --black: #000;
     --bodyText: #333;
-    --anchor: #08C;
-    --footerText: #6E6E6E;
-    --footerInfoBorder: #CCC;
+    --anchor: #08c;
+    --footerText: #6e6e6e;
+    --footerInfoBorder: #ccc;
+    --heroNavBorder: #666;
+    --listItemBorderRight: #888;
+    --heroNavAnchorEffect: rgba(36, 36, 36, .5);
+    --searchInputDark: rgba(0, 0, 0, 0.6);
+    --searchInputGrey: rgba(255, 255, 255, 0.2);
+    --searchInputTop: #808080;
+    --searchInputBottomFinal: #787878;
 }
 
 body {
