@@ -152,6 +152,7 @@ body {
     align-items: center;
     justify-content: space-between;
     margin: .2em auto auto;
+    max-width: 1440px;
 }
     .figures img {
         width: 364px;
