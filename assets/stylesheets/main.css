@@ -43,6 +43,7 @@ body {
     background: url(../images/hero.jpg) 50% 100% no-repeat;
     height: 80%;
     padding-top: 8em;
+    min-width: 960px;
 }
     .main__nav {
         box-shadow: 0 1px 2px var(--bodyText);
