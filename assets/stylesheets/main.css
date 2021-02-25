@@ -145,6 +145,15 @@ body {
                 margin-top: -3.2em;
             }
 
+/* Figures */
+.figures {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: .2em auto auto;
+}
+
 /* Footer */
 .footer {
     width: 1020px;
